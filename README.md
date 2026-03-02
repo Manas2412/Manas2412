@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Sisodia</h1>
-<h3 align="center">SDE-1 Ready | Full-Stack Engineer | Scalable Systems | DevOps-Oriented</h3>
+<h3 align="center">Full-Stack Engineer | Scalable Systems | DevOps-Oriented</h3>
 
 <p align="center">
   <a href="https://github.com/Manas2412">

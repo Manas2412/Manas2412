@@ -1,1 +1,21 @@
-github_user_name: Manas2412
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Manas2412
+          outputs: |
+            snake.svg
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: snake.svg

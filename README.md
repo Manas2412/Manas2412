@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manas Sisodia</h1>
-<h3 align="center">Full-Stack Engineer | Scalable Systems | DevOps-Oriented</h3>
+<h3 align="center">Backend & Applied AI Engineer | Scalable Systems | DevOps-Oriented</h3>
 
 <p align="center">
   <a href="https://github.com/Manas2412">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;System+Design+Focused;Production-Ready+Developer;Next.js+%7C+Node.js+%7C+AWS+%7C+Docker;Scalable+Backend+Architecture" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+%26+Applied+AI+Engineer;System+Design+Focused;Production-Ready+Developer;Next.js+%7C+Node.js+%7C+FastAPI+%7C+AWS;Scalable+Backend+Architecture;RAG+%7C+LangChain+%7C+Vector+Databases" />
   </a>
 </p>
 
@@ -11,90 +11,80 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (2021–2025), GGSIPU — CGPA: 7.49  
-- 💼 Full Stack Intern @ Allatone | CeoTech | Agnitio.AI  
-- 🚀 Designed systems supporting 100+ concurrent users  
-- ☁️ Deployed production apps using AWS EC2, Docker, Nginx & PM2  
-- 🔁 Built CI/CD pipelines using GitHub Actions  
-- 🧠 Strong foundation in System Design, Caching & API Architecture  
+- 🎓 **B.Tech ECE (2021–2025)**, GGSIPU — CGPA: 7.49  
+- 💼 **Full Stack Intern** @ Allatone | CeoTech  
+- 🤖 Specialized in **Applied AI & RAG pipelines** (LangChain, pgvector, HyDE)  
+- 🚀 Designed systems processing **300+ events/sec** with sub-300ms latency  
+- ☁️ Production deployments using **AWS EC2, Docker, Nginx & Nginx**  
+- 🔁 Built high-efficiency CI/CD pipelines (reduced deployment time by **80%**)  
+- 🧠 Strong focus on **Event-Driven Architecture & Distributed Systems**
 
-> I engineer scalable systems — not just features.
+> I build scalable backend systems and production-grade AI agents that solve real-world problems.
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+## 💻 Languages & Core
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
----
-
-## 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
----
-
-## ⚙️ Backend
+## ⚙️ Backend & AI
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![REST APIs](https://img.shields.io/badge/REST-APIs-green?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![BullMQ](https://img.shields.io/badge/BullMQ-Distributed_Queues-orange?style=for-the-badge)
 
----
-
-## 🗄 Databases & Caching
+## 🗄 Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
----
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-blue?style=for-the-badge)
 
 ## ☁ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![PM2](https://img.shields.io/badge/PM2-ProcessManager-blue?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=githubactions)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2)
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 8Byte – Real-Time Portfolio Platform
+## 🏗️ [PipelineCI](https://github.com/Manas2412/PipelineCI) – Developer CI/CD Platform
+- Full-stack CI/CD orchestration platform using **Turborepo** with **Bun** runtime.
+- Shared `@repo/ui` component library with centralized ESLint + TypeScript configs.
+- **Tech:** TypeScript | Next.js | Redis | GitHub Actions | Turborepo
 
-- Architected event-driven market data pipeline (NSE, Yahoo, Google APIs)
-- Implemented Redis read-through caching (↓ 60% external API calls)
-- Achieved sub-second portfolio refresh (15s polling cycle)
-- Designed multi-service Docker architecture (Web, API, WS, Postgres, Redis)
-- CI-enforced type safety & scalable infra
+## 📊 [8Byte](https://github.com/Manas2412/8Byte) – Real-Time Market Data Pipeline
+- Event-driven pipeline processing **300+ events/sec** (NSE, Yahoo Finance).
+- Redis **read-through caching** reduced external API calls by **60%**.
+- Achieved sub-300ms WebSocket latency for real-time updates.
+- **Tech:** Node.js | Redis Streams | WebSockets | PostgreSQL | AWS
 
-**Tech:** Next.js | Node.js | Redis | PostgreSQL | Docker | AWS
+## 🤖 [CodeBase Q&A](https://github.com/Manas2412/CodeBase-QA) – RAG for Codebases
+- AST-aware code ingestion using **tree-sitter** for context-rich retrieval.
+- Implemented **HyDE expansion** and **Cohere reranking** for 90%+ retrieval accuracy.
+- **Tech:** Python | LangChain | pgvector | Voyage AI | Ollama
+
+## 🛡️ [BetterStack](https://github.com/Manas2412/BetterStack) – Distributed Uptime Monitor
+- Monitored **100+ endpoints** across 20+ concurrent **BullMQ** workers (~500 jobs/min).
+- Implemented exponential backoff and retry strategies to eliminate false positives.
+- **Tech:** Node.js | BullMQ | Redis | PostgreSQL
 
 ---
 
-## ⚖️ E-Court Hearing Platform
+# 🏆 Achievements
 
-- Secure digital courtroom (100+ concurrent users)
-- JWT authentication + Role-Based Access Control
-- Designed 15+ production-grade REST APIs
-- AWS EC2 deployment with PM2 (99.9% uptime)
-
----
-
-## 📦 Nexus Inventory Manager
-
-- Full-stack inventory system managing 1,000+ records
-- Reduced manual tracking effort by 40%
-- Role-based dashboards & protected routes
-- Dockerized CI/CD deployment with Nginx reverse proxy
+- 🥇 **1st Place** – UHI Hackathon (Spectrum Slam) - Built UHI-aligned mental health platform.
+- 🥈 **2nd Place** – BVP-HEX Hackathon - Blockchain-based supply chain traceability system.
+- 📉 **LeetCode** – Contest Rating 1516 (Consistent performer in competitive programming).
 
 ---
 
@@ -106,10 +96,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas2412&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas2412&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -129,10 +115,10 @@
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManasSisodia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manas-sisodia/)
-[![GitHub](https://img.shields.io/badge/GitHub-Manas2412-black?style=for-the-badge&logo=github)](https://github.com/Manas2412)
+[![Email](https://img.shields.io/badge/Email-manassisodia3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manassisodia3@gmail.com)
 
 ---
 
 <p align="center">
-  ⚡ Engineering scalable systems, one deployment at a time.
+  ⚡ Engineering scalable systems & Applied AI, one deployment at a time.
 </p>
